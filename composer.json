@@ -1,0 +1,13 @@
+{
+    "name": "datadog/dd-trace-php",
+    "description": "A placeholder for the library name 'dd-trace-php'",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "DataDog",
+            "email": "dev@datadoghq.com"
+        }
+    ],
+    "require": {}
+}
